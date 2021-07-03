@@ -1,0 +1,15 @@
+body {
+  background-color: #5d5d5d;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.App label,
+input {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
